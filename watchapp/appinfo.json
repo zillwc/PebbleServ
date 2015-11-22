@@ -1,0 +1,26 @@
+{
+    "uuid": "4600fb75-81a2-476a-ba1a-ca5339c1cf4f",
+    "shortName": "PebbleServ",
+    "longName": "PebbleServ Monitor",
+    "capabilities": [ "configurable" ],
+    "companyName": "Zillwc",
+    "versionCode": 1,
+    "versionLabel": "0.0.1",
+    "watchapp": {
+        "watchface": false
+    },
+    "appKeys": {
+        "fetch": 0,
+        "ip": 1,
+        "cpu": 2,
+        "mem": 3,
+        "host": 4,
+        "auto": 5,
+        "update_int": 6,
+        "all": 7,
+        "port": 8
+    },
+    "resources": {
+        "media": []
+    }
+}
